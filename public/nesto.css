@@ -1,0 +1,46 @@
+body {
+margin:0;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    
+}
+
+#container{
+    height: 300px;
+    width: 300px;
+    background-color: palevioletred;
+    position:absolute;
+}
+
+
+#div1 {
+    background-color: red;
+    position: absolute;
+    left:0px ;
+
+
+}
+
+#div2 {
+    background-color: blue;
+    position:absolute;
+    bottom: 100px;
+    left: 100px;
+    
+    
+}
+
+#div3 {
+    background-color: green;
+    position: absolute;
+    top: 200px;
+    left:200px;
+   
+    
+
+}
+

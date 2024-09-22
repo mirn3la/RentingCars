@@ -1,0 +1,8 @@
+Installation
+1. Clone the repository: https://gitlab.ujaen.es/WebTeam5/RentingCars.git
+2. Navigate to the project directory: cd RentingCars
+3. Install dependencies using Composer: composer install
+4. Configure the server connection and database connectionby editing the .env file.
+5. Import the database schema from webapp.sql into your MySQL database.
+6. Start the development server: php spark serve
+7. Access the application in your browser at http://localhost:8080
